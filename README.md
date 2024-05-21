@@ -18,3 +18,7 @@
 
 - React.js
 - Axios
+
+## Deployement URL
+
+- https://bank-inventory-oqjew5ogo-venkata-lohit-chopparapus-projects.vercel.app/
