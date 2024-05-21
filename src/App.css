@@ -1,0 +1,49 @@
+/* src/App.css */
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  form {
+    margin: 20px 0;
+  }
+  
+  input {
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    border: none;
+    background-color: #28a745;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #218838;
+  }
+  
+  img {
+    max-width: 100px;
+    margin: 10px 0;
+  }
+  
+  h3 {
+    margin: 10px 0;
+  }
+  
+  p {
+    margin: 5px 0;
+  }
+  
+  span {
+    cursor: pointer;
+    font-size: 20px;
+    margin: 0 2px;
+  }
+  
